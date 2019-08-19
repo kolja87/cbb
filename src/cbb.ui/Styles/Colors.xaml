@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:cbb.ui">
+
+    <Color x:Key="MainBackground">#2f2c37</Color>
+    <SolidColorBrush x:Key="MainBackgroundBrush" Color="{StaticResource MainBackground}" />
+
+    <Color x:Key="MainLightBackground">#3d3947</Color>
+    <SolidColorBrush x:Key="MainLightBackgroundBrush" Color="{StaticResource MainLightBackground}" />
+
+
+    <Color x:Key="MainBorders">#3a3742</Color>
+    <SolidColorBrush x:Key="MainBordersBrush" Color="{StaticResource MainBorders}" />
+
+    <Color x:Key="BlueFont">#b7cccf</Color>
+    <SolidColorBrush x:Key="BlueFontBrush" Color="{StaticResource BlueFont}" />
+
+
+    <Color x:Key="YellowFont">#bcbba6</Color>
+    <SolidColorBrush x:Key="YellowFontBrush" Color="{StaticResource YellowFont}" />
+
+
+    <Color x:Key="OrangeFont">#fac488</Color>
+    <SolidColorBrush x:Key="OrangeFontBrush" Color="{StaticResource OrangeFont}" />
+
+
+    <Color x:Key="RedFont">#c66a77</Color>
+    <SolidColorBrush x:Key="RedFontBrush" Color="{StaticResource RedFont}" />
+
+
+    <Color x:Key="GrayFont">#d5d2dd</Color>
+    <SolidColorBrush x:Key="GrayFontBrush" Color="{StaticResource GrayFont}" />
+
+
+</ResourceDictionary>

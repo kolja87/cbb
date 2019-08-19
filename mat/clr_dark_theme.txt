@@ -1,0 +1,16 @@
+
+
+main background : 2f2c37
+light background: 3d3947
+main borders    : 3a3742
+blue font       : b7cccf
+yellow font     : bcbba6
+orange font     : fac488
+red font        : c66a77
+gray font       : d5d2dd
+
+Link ui dark theme:
+https://www.pinterest.com/pin/613334042980002263/
+
+Fonts:
+https://fonts.google.com/

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Circle's Bim Blog</Name>
+    <Assembly>C:\_blog\cbb\cbb.dll</Assembly>
+    <AddInId>C816F98F-7932-4875-939D-E07CC35029D3</AddInId>
+    <FullClassName>cbb.Main</FullClassName>
+    <VendorId>Marko Koljancic</VendorId>
+    <Publisher>Marko [circlesend] Koljancic</Publisher>
+    <VendorDescription>Circlesend description, populate later,...</VendorDescription>
+  </AddIn>
+</RevitAddIns>
